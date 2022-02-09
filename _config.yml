@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Tomasz Limisiewicz"
-  avatar           : "tl-mountains.png"
-  bio              : "Computational Linguistics Ph.D. student at Charles University. Interested in going into the inner workings of neural networks, multilingualism, and fairer NLP (he/him)"
+  avatar           : "tl-mountains.jpeg"
+  bio              : "Computational Linguistics Ph.D. student at Charles University (Prague)."
   location         : "Prague"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.de/citations?hl=en&user=RqxyTsgAAAAJ"
+  googlescholar    : "https://scholar.google.de/citations?hl=en&user=RqxyTsgAAAAJ" 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
