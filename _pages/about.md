@@ -8,19 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Tomasz Limisiewicz (yes, with four i’s), an NLP researcher and keen explorer of multilingual language models, soon-to-be doctor Limisiewicz from [Charles University](https://ufal.mff.cuni.cz/tomasz-limisiewicz).
+Hi, I am Tomasz Limisiewicz (yes, with four i’s).
+I am currently exploring large language models as a Postdoctoral Researcher at the University of Washington and Meta in Seattle. I PhDid at Charles University.
 
- How do language models acquire unmatched performance throughout language tasks? And transfer capabilities across languages? 
+How do language models acquire unmatched performance throughout diverse tasks? And transfer capabilities across languages and modalities? 
 These questions are core to my research. In the exploration, I follow guiding principles:
 
 **I. Focus on Language(s) and Data.**
 
-Studying artifacts of corpora and phenomena characteristic to specific languages is crucial to understanding the function of language models.
-I analyze how models represent linguistic concepts and how they enable (or prevent from) tackling high-level challenges.
+Studying artifacts of corpora and phenomena characteristic to specific languages and modalities is crucial to understanding the function of language models.
+I analyze how models represent concepts and how they enable (or prevent from) tackling high-level challenges.
 
 **II. Divide and Explain.**
 
- I dissect the black-box models and analyze specific components: attention mechanisms, latent representation, and vocabulary.
+ I dissect the black-box models and analyze specific components: attention mechanisms, latent representation, and tokenization.
  This approach allows for identifying the role of specific architecture choices in the learning process. 
 
 **III. Targeted Improvements for Robustness.**
