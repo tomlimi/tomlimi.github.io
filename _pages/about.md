@@ -14,9 +14,9 @@ I am currently exploring large language models as a Postdoctoral Researcher at t
 How do language models acquire unmatched performance throughout diverse tasks? And transfer capabilities across languages and modalities? 
 These questions are core to my research. In the exploration, I follow guiding principles:
 
-**I. Focus on Language(s) and Data.**
+**I. Focus on  Data.**
 
-Studying artifacts of corpora and phenomena characteristic to specific languages and modalities is crucial to understanding the function of language models.
+Studying corpora artifacts and phenomena characteristic of specific languages and modalities is crucial to understanding the function of language models.
 I analyze how models represent concepts and how they enable (or prevent from) tackling high-level challenges.
 
 **II. Divide and Explain.**
