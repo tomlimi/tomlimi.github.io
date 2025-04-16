@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tomasz Limisiewicz"
 title_separator          : "-"
 name                     : &name "Tomasz Limisiewicz"
-description              : &description "Ph.D. Candidate @ Charles University"
+description              : &description "Postdoctoral Researcher @ University of Washington and Meta"
 url                      : https://tomlimi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tomlimi.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Tomasz Limisiewicz"
   avatar           : "tl-mountains.jpeg"
-  bio              : "Computational Linguistics Ph.D. student at Charles University (Prague)."
-  location         : "Prague"
+  bio              : "Postdoctoral Researcher at the University of Washington and Meta"
+  location         : "Seattle"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.de/citations?hl=en&user=RqxyTsgAAAAJ" 
