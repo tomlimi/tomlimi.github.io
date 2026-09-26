@@ -48,6 +48,10 @@
   }
 }
 
+.list__item + .list__item {
+  margin-top: 1.4em;
+}
+
 /* remove border*/
 .page__content {
 

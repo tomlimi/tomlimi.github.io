@@ -8,26 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Tomasz Limisiewicz (yes, with four i’s).
+Hi, I am Tomasz Limisiewicz.
 I am currently exploring large language models as a Postdoctoral Researcher at the University of Washington and Meta in Seattle. I PhDid at Charles University.
 
-How do language models acquire unmatched performance throughout diverse tasks? And transfer capabilities across languages and modalities? 
-These questions are core to my research. In the exploration, I follow guiding principles:
+How do language models perform so well across diverse tasks, and how do their capabilities transfer across languages and modalities?
+These questions are core to my research. In my exploration, I focus on the following principles:
 
-**I. Focus on  Data.**
+## I. Focus on Data and Tokens
 
-Studying corpora artifacts and phenomena characteristic of specific languages and modalities is crucial to understanding the function of language models.
-I analyze how models represent concepts and how they enable (or prevent from) tackling high-level challenges.
+Studying corpus artifacts and phenomena characteristic of specific languages and modalities is crucial to understanding how language models work. I am especially interested in the role of **tokenization**, which mediates between data and model.
 
-**II. Divide and Explain.**
+## II. Divide and Explain
 
- I dissect the black-box models and analyze specific components: attention mechanisms, latent representation, and tokenization.
- This approach allows for identifying the role of specific architecture choices in the learning process. 
+I dissect black-box models and analyze specific components: attention, latent representations, and tokenization. This approach helps identify the role of architectural choices in training and explain which changes bring improvements at scale.
 
-**III. Targeted Improvements for Robustness.**
+## III. Transfer and Robustness
 
-Mechanistic interpretations inform targeted changes and show improvements in aspects that cannot be addressed solely through increasing data volume or model size.
-The examples are boosting the representation of low-resource languages and countering biases stemming from data.
+Joint training across domains enables knowledge transfer and faster learning, for example in languages with limited data.
+My aim is to build systems that work across languages and modalities and improve together by learning similar, transferable representations.
 
-Please refer to my [selected publication list](https://tomlimi.github.io/publications/) and [Google Scholar profile](https://scholar.google.com/citations?user=RqxyTsgAAAAJ) for an exhaustive compilation of my scholarly contributions.
- Beyond research: I’m a keen hiker (as depicted in my profile picture from [Veľký Rozsutec](https://en.mapy.cz/s/povofolono)) and a film enthusiast.
+For a selection of my work, see my [publications](https://tomlimi.github.io/publications/); for a full list, see my [Google Scholar profile](https://scholar.google.com/citations?user=RqxyTsgAAAAJ).
+
+Beyond research, I’m a keen hiker and a film enthusiast.
